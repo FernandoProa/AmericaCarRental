@@ -6,5 +6,6 @@
     <li>Usa npm install && npm run dev</li>
     <li>Usa nuevamente npm run dev</li>
     <li>Crea y configura el .env a partir del .env.example</li>
+    <li>Finalmente utiliza php artisan key:generate y corre el proyecto</li>
 </ol>
 <h4>Para este proyecto NO se necesita base de datos</h4>
